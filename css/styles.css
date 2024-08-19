@@ -42,14 +42,20 @@ button:focus {
     background-color: #404BBF;
 }
 
-.container {
-    width: 1158px;
-    display: flex;
-    margin: 0 auto;
-    padding: 0 15px;
-
+.top-page {
+    border-bottom: 1px solid #e7e9fc;
+   
 }
 
+.top-page-container {
+    display: flex;    
+}
+
+.container{
+    width: 1158px;
+    margin: 0;
+    padding: 0 15px;
+}
 .hero-title {
     background-color: #2e2f42;
     color: #ffffff;
@@ -261,13 +267,8 @@ footer {
     font-family: "Raleway", sans-serif;
 }
 
-.top-page {
-    border-bottom: 1px solid #e7e9fc
-}
 
-.top-page-container {
-    display: flex;
-}
+  
 
 .header-container-items {
     display: flex;
