@@ -43,21 +43,17 @@ button:focus {
 }
 
 .top-page {
-    border-bottom: 1px solid #e7e9fc;
-    display: flex;
-        width: 1158px;
-        margin: 0 auto;
-        padding: 0 15px;
+    border-bottom: 1px solid #e7e9fc;   
    
 }
-/*
+
 .top-page-container {
     display: flex;
     width: 1158px;
         margin: 0 auto;
         padding: 0 15px;
 }
-*/
+
 .container{
     width: 1158px;
     margin: 0 auto;
