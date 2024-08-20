@@ -55,6 +55,7 @@ button:focus {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    
 }
 .hero-title {
     background-color: #2e2f42;
@@ -296,5 +297,5 @@ footer {
 }
 
 .benefits-list-elements {
-    width: calc((100% - 72px) / 4);
+    width: calc((100%-72px)/4);
 }
